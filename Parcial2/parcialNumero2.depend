@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1637713401 source:/home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"LinkedList.h"
+	"pais.h"
+	"parser.h"
+	"misFunciones.h"
+	"menu.h"
+
+1637705165 /home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/LinkedList.h
+
+1637712472 /home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/pais.h
+	"LinkedList.h"
+
+1637693264 /home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/parser.h
+
+1637713606 /home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/misFunciones.h
+
+1637710924 /home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/menu.h
+
+1637706820 source:/home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637713584 source:/home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"pais.h"
+	"menu.h"
+	"misFunciones.h"
+
+1637713469 /home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/Controller.h
+
+1637710978 source:/home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+
+1637713598 source:/home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/misFunciones.c
+	"misFunciones.h"
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
+1637713683 source:/home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/pais.c
+	"pais.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637699541 source:/home/jbclyffe/Escritorio/ParcialVacunas/Parcial2/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+
+1637760957 source:/home/jbclyffe/Escritorio/ParcialMovies/Parcial2/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637758200 /home/jbclyffe/Escritorio/ParcialMovies/Parcial2/LinkedList.h
+
+1637762609 source:/home/jbclyffe/Escritorio/ParcialMovies/Parcial2/menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+
+1637762615 /home/jbclyffe/Escritorio/ParcialMovies/Parcial2/menu.h
+
+1637713598 source:/home/jbclyffe/Escritorio/ParcialMovies/Parcial2/misFunciones.c
+	"misFunciones.h"
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
+1637713606 /home/jbclyffe/Escritorio/ParcialMovies/Parcial2/misFunciones.h
+
+1637757705 source:/home/jbclyffe/Escritorio/ParcialMovies/Parcial2/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pelicula.h"
+
+1637712472 /home/jbclyffe/Escritorio/ParcialMovies/Parcial2/pais.h
+	"LinkedList.h"
+
+1637764198 /home/jbclyffe/Escritorio/ParcialMovies/Parcial2/pelicula.h
+	"LinkedList.h"
+
+1637764101 source:/home/jbclyffe/Escritorio/ParcialMovies/Parcial2/pelicula.c
+	"pelicula.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637764187 source:/home/jbclyffe/Escritorio/ParcialMovies/Parcial2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"pelicula.h"
+	"menu.h"
+	"misFunciones.h"
+
+1637760563 /home/jbclyffe/Escritorio/ParcialMovies/Parcial2/Controller.h
+
+1637763336 source:/home/jbclyffe/Escritorio/ParcialMovies/Parcial2/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"parser.h"
+	"menu.h"
+
+1637757726 /home/jbclyffe/Escritorio/ParcialMovies/Parcial2/parser.h
+
